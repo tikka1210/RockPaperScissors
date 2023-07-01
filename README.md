@@ -1,2 +1,2 @@
-# RockPaperScissors
-I made a simple rock-paper-scissors game with C#.
+# 가위바위보
+간단하게 가위바위보 게임을 만들어봤습니다.
